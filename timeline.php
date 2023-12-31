@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="loader.css">
+        <link rel="stylesheet" type="text/css" href="index.css">
+        <link rel="stylesheet" type="text/css" href="timeline.css">
+        <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Bungee+Hairline|Open+Sans'>
+        <script src="loader.js"></script>
+        <meta charset="utf-8">
+        <meta name="author" content="Ykon">
+        <meta name="keywords" content="一崆个人官网,个人官网,个人主页">
+        <meta name="description" content="这是一崆的个人主页网站">
+        <link rel="icon" type="image/png" href="opoa.png">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>服务</title>
+    </head>
+    <body>
+        <div class="loader" id="loader"></div>
+        <div id="content">
+            <center><br>
+                  <div class="button-container">
+      <a href="index.php"><button class="button">
+        <svg t="1698673586579" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2327" width="20" height="20"><path d="M979.792374 404.577188 574.183101 83.942886c-34.918864-27.694272-89.619352-27.694272-124.538216 0L44.207626 404.577188c-13.933143 11.008903-16.169326 31.134554-5.332437 44.895683s30.618512 16.169326 44.551655 5.332437l12.55703-10.320847 0 387.547791c0 54.872501 57.968755 95.983874 108.712918 95.983874l639.892491 0c50.22812 0 83.254829-38.531161 83.254829-95.983874L927.844112 445.860575l11.69696 8.944734c5.84848 4.644381 13.073072 6.880564 20.125651 6.880564 9.460776 0 18.921552-4.128339 25.286074-12.213002C995.9617 435.711742 993.725517 415.586091 979.792374 404.577188zM479.919368 864.026877 479.919368 686.508315c0-8.77272 15.997312-13.245087 31.994625-13.245087s31.994625 4.472367 31.994625 13.245087l0 177.346548L479.919368 864.026877 479.919368 864.026877zM864.026877 832.032253c0 21.157736-5.84848 31.994625-19.26558 31.994625L608.585923 864.026877c0-0.516042-0.688056-0.860071-0.688056-1.376113L607.897867 686.508315c0-37.155048-29.930455-77.234336-95.983874-77.234336s-95.983874 40.079288-95.983874 77.234336l0 176.142449c0 0.516042 0.860071 0.860071 0.860071 1.376113L204.868806 864.026877c-20.125651 0-44.723669-17.373425-44.723669-31.994625L160.145137 393.740299 488.864102 134.171006c11.868974-9.288762 33.198723-9.288762 44.895683 0l330.095078 261.11742L863.854863 832.032253z" fill="#ffffff" p-id="2328"></path></svg>
+      </button></a>
+      <a href="project.php"><button class="button">
+        <svg t="1698673690371" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3439" width="20" height="20"><path d="M896 896l-45.44-45.12A63.808 63.808 0 0 1 896 832a64 64 0 0 0 64-64V128a64 64 0 0 0-64-64H256a64 64 0 0 0-64 64v5.44c0 17.6-7.04 33.536-18.56 45.12L128 133.44V128A128 128 0 0 1 256 0h640a128 128 0 0 1 128 128v640a128 128 0 0 1-128 128zM64 256v640a64 64 0 0 0 64 64h640a64 64 0 0 0 64-64V256a64 64 0 0 0-64-64H128a64 64 0 0 0-64 64z m704-128a128 128 0 0 1 128 128v640a128 128 0 0 1-128 128H128A128 128 0 0 1 0 896V256a128 128 0 0 1 128-128h640z" fill="#ffffff" p-id="3440"></path><path d="M160 256h384a32 32 0 0 1 0 64H160a32 32 0 0 1 0-64z m576 64a32 32 0 1 1 0-64 32 32 0 0 1 0 64zM64 384h768v64H64v-64z" fill="#ffffff" p-id="3441"></path></svg>
+      </button></a>
+      <a href="photo.php"><button class="button">
+        <svg t="1698673796481" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4939" width="20" height="20"><path d="M668.1 227.3H207.8C93.2 227.3 0 320.6 0 435.1v296.4c0 114.6 93.2 207.8 207.8 207.8H668c114.6 0 207.8-93.2 207.8-207.8V435.1c0.1-114.5-93.1-207.8-207.7-207.8z m139.8 504.2c0 77.1-62.7 139.8-139.8 139.8H207.8c-57.3 0-106.7-34.7-128.3-84.2l217.8-217.8 134.2 134.2c13.3 13.3 34.8 13.3 48.1 0l88.2-88.2 96.6 96.6c13.3 13.3 34.8 13.3 48.1 0 13.3-13.3 13.3-34.8 0-48.1L592 543.2c-13.3-13.3-34.8-13.3-48.1 0l-88.2 88.2-134.3-134.2c-13.3-13.3-34.8-13.3-48.1 0L68 702.6V435.1c0-77.1 62.7-139.8 139.8-139.8H668c77.1 0 139.8 62.7 139.8 139.8v296.4z" fill="#ffffff" p-id="4940"></path><path d="M627.440143 485.154298a53.1 53.1 0 1 0 75.093429-75.096051 53.1 53.1 0 1 0-75.093429 75.096051Z" fill="#ffffff" p-id="4941"></path><path d="M675.1 84.6h-288c-18.8 0-34 15.2-34 34s15.2 34 34 34h288c154.9 0 280.9 126 280.9 280.9v149.8c0 18.8 15.2 34 34 34s34-15.2 34-34V433.6c0-192.4-156.5-349-348.9-349z" fill="#ffffff" p-id="4942"></path></svg>
+      </button></a>
+      <a href="timeline.php"><button class="button">
+        <svg t="1698675290807" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="1484" width="20" height="20"><path d="M675.328 117.717333A425.429333 425.429333 0 0 0 512 85.333333C276.352 85.333333 85.333333 276.352 85.333333 512s191.018667 426.666667 426.666667 426.666667 426.666667-191.018667 426.666667-426.666667c0-56.746667-11.093333-112-32.384-163.328a21.333333 21.333333 0 0 0-39.402667 16.341333A382.762667 382.762667 0 0 1 896 512c0 212.074667-171.925333 384-384 384S128 724.074667 128 512 299.925333 128 512 128c51.114667 0 100.8 9.984 146.986667 29.12a21.333333 21.333333 0 0 0 16.341333-39.402667zM298.666667 554.666667a42.666667 42.666667 0 1 0 0-85.333334 42.666667 42.666667 0 0 0 0 85.333334z m213.333333 0a42.666667 42.666667 0 1 0 0-85.333334 42.666667 42.666667 0 0 0 0 85.333334z m213.333333 0a42.666667 42.666667 0 1 0 0-85.333334 42.666667 42.666667 0 0 0 0 85.333334z" fill="#e6e6e6" p-id="1485"></path></svg>
+      </button></a>
+    </div>
+
+<section id="cd-timeline" class="cd-container">
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+			</div>
+
+			<div class="cd-timeline-content">
+				<h2>个人博客
+</h2>
+				<p>陵寒博客https://lhopoa.github.io/Yxiaoli/#
+</p>
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-movie">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<h2>官方邮箱
+</h2>
+				<p>lhopoa@foxmail.com
+
+</p>
+				
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-picture">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<h2>小皮面板
+</h2>
+				<p>感谢！www.xp.cn
+ </p>
+				
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-location">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<h2>几个群聊
+</h2>
+				<p>895300309或者663031316
+</p>
+				
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-location">
+			</div> 
+
+			<div class="cd-timeline-content">
+				<h2>2024
+</h2>
+				<p>祝您龙年 万事顺利
+</p>
+				
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+
+		<div class="cd-timeline-block">
+			<div class="cd-timeline-img cd-movie">
+			</div> <!-- cd-timeline-img -->
+
+			<div class="cd-timeline-content">
+				<h2>激励
+</h2>
+				<p>是每次开发能获得您的关注
+</p>
+				
+			</div> <!-- cd-timeline-content -->
+		</div> <!-- cd-timeline-block -->
+	</section> <!-- cd-timeline -->
+  <script src='https://use.fontawesome.com/4d74086fc6.js'></script>
+
+            </center>
+        </div>
+    </body>
+</html>
